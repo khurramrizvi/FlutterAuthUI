@@ -18,10 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 ##### Screenshots
 
 <table bgcolor=""#fafafa>
-  <tr><td> Sign Up </td> <td> Sign In </td>  <td> GIF </td></tr>
+  <tr><td> Sign Up </td> <td> GIF </td>  <td> Sign In </td></tr>
   <tr><td><img src="https://i.ibb.co/rpzTHFB/Screenshot-20190714-151043.png" alt="Sign Up" width = 270 height = 480 ></td>
-    <td><img src = "https://i.ibb.co/7gdRFZn/Screenshot-20190714-151048.png" alt ="Sign In" width = 270 height = 480 ></td>
     <td><img src = "/misc/GIF-190714_151842.gif" width = 270 height = 480 ></td>
+    <td><img src = "https://i.ibb.co/7gdRFZn/Screenshot-20190714-151048.png" alt ="Sign In" width = 270 height = 480 ></td>
   </tr>
   </table>
       
