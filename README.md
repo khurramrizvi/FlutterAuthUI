@@ -25,4 +25,4 @@ samples, guidance on mobile development, and a full API reference.
   </tr>
   </table>
       
-### If You like my work, please consider giving a star to this Repository.
+## If you like my work and want to show some ❤️, please consider giving a ⭐️ to this Repository.
